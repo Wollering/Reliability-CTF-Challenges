@@ -1,6 +1,6 @@
 # Challenge Management and Assessment Engine Capabilities
 
-This document provides detailed information about the Challenge Management and Assessment Engine capabilities of the Dynamic Challenge System for AWS Reliability CTF.
+This document provides detailed information about the Challenge Management and Assessment Engine capabilities of the Dynamic Challenge System.
 
 ## Table of Contents
 
@@ -27,11 +27,11 @@ The system stores challenges in a dedicated S3 bucket with a standardized direct
 
 ```
 s3://ctf-reliability-challenges/
-├── voting-system/
+├── voting-system-challenge/
 │   ├── config.json               # Challenge configuration
 │   ├── check-functions.js        # Assessment logic
 │   └── resources/                # Challenge-specific resources
-├── api-service/
+├── api-service-challenge/
 │   ├── config.json
 │   ├── check-functions.js
 │   └── resources/
@@ -101,7 +101,7 @@ The `config.json` file defines assessment criteria in a structured format:
 
 This configuration maps assessment criteria to specific check functions and assigns point values.
 
-### Challenge Management API
+### Challenge Management API - IN PROGRESS
 
 The API Gateway exposes RESTful endpoints for challenge administration:
 
@@ -126,7 +126,7 @@ The system supports this workflow for challenge developers:
 5. Register the challenge via the Management API
 6. Activate the challenge when ready for participants
 
-## Assessment Engine Capabilities
+## Assessment Engine - IN PROGRESS
 
 ### Dynamic Assessment Process
 
@@ -310,7 +310,7 @@ This provides:
 - Detailed explanations of each assessment criterion
 - Learning opportunities even when failing challenges
 
-### Security Measures
+### Security Measures 
 
 The Assessment Engine includes several security measures:
 
