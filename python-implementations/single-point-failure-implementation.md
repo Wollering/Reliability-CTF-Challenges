@@ -1,4 +1,4 @@
-# Implementing the Single-Point Failure Challenge
+# Implementing "The Single-Point Failure" Challenge
 
 ## Table of Contents
 1. [Challenge Overview](#challenge-overview)
