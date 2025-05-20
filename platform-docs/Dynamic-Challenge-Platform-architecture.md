@@ -1,1 +1,4 @@
-![image](https://github.com/user-attachments/assets/9e482ed0-115f-4119-b973-6448280e01ae)
+# Dynamic Challenge Platform Architecture
+
+![image](https://github.com/user-attachments/assets/3eaf7236-0e9b-4585-aaae-dec3e66a9ca1)
+
