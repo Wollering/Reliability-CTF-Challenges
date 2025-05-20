@@ -1,4 +1,4 @@
-# Implementing "The Error Cascade" Challenge for AWS Reliability CTF
+# Implementing "The Error Cascade" Challenge 
 
 ## Table of Contents
 
