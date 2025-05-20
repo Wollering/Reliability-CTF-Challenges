@@ -1,5 +1,5 @@
-# Reliability-CTF-Challenges
-This repository contains a table of reliability challenges, and a python-implementations folder containing and implementation markdown file for each of the first 3 challenges.
+# Reliability-EQ-Challenges
+This repository contains a table of AWS Reliability Pillar-based challenges, and a python-implementations folder containing a draft implementation markdown file for each of the first 3 challenges.
 
 ## Layout of this repo
 1. An architectural reference document of the entire Dynamic Challenge Platform can be found [here:](platform-docs/Dynamic-Challenge-Platform-architecture.md)
