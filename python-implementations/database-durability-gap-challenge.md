@@ -1,4 +1,4 @@
-# Implementing the Database Durability Gap Challenge 
+# Implementing the "Database Durability Gap" Challenge 
 
 ## Table of Contents
 - [Introduction](#introduction)
